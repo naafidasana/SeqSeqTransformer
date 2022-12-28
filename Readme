@@ -1,0 +1,8 @@
+# Author: Naafi Dasana IBRAHIM
+#
+#
+# The following repository is a collection of functions and classes
+# and associated dataset to that implements all components of the
+# Transformer Architecture (Multi-Head Attention, AddNorm, etc)
+# and applies it to neural machine translation between Dagbani and English
+#
